@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package com.example.demo.service.fakedata;
 
 import java.io.IOException;
 import java.io.InputStream;
