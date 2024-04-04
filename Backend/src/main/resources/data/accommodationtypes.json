@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hilltop Lodge",
+    "price": 221,
+    "maxGuests": 4
+  },
+  {
+    "name": "The Hideaway",
+    "price": 318,
+    "maxGuests": 4
+  },
+  {
+    "name": "The Abbey",
+    "price": 449,
+    "maxGuests": 2
+  },
+  {
+    "name": "The Pie",
+    "price": 496,
+    "maxGuests": 8
+  }
+]
