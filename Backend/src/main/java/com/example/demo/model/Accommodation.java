@@ -19,7 +19,11 @@ public class Accommodation {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
-    private double price;
-    private boolean petsAllowed;
-    private int numberOfGuests;
+    private int houseNumber;
+    private int type;
+
+    public Accommodation(int houseNumber, int type) {
+        this.houseNumber = houseNumber;
+        this.type = type;
+    }
 }
